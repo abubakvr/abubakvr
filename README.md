@@ -1,4 +1,4 @@
-## Hi 👋, I'm Abubakar Ibrahim!
+## Hi 👋, I am Abubakar Ibrahim!
 
 I am a software developer specializing in creating and executing innovative software
 solutions to enhance business and productivity. Passionate about learning and development with a desire
