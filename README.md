@@ -19,7 +19,7 @@ depending on what the project requires. I love exploring new tech stack 💻 and
 - 🌱 &nbsp; I am currently learning Golang;
 - ❤️ &nbsp; I Love Blockchain ⛓;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sadeeqdev=repositories)
-- 📫 &nbsp; You can view my portfolio here on [sadeeqdev](https://sadeeqdev.vercel.app)
+- 📫 &nbsp; You can view my portfolio on [sadeeqdev](https://sadeeqdev.vercel.app)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; I enjoy reading books, watching football and writing tech related articles when I'm free. 
 
