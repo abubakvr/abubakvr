@@ -12,8 +12,8 @@ depending on what the project requires. I love exploring new tech stack 💻 and
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **NetPorch**
-- 🤝 &nbsp; I am looking to collaborate on opensource Projects
+- 🔭 &nbsp; I’m currently working on **CheddaTech**
+- 🤝 &nbsp; I like collaborating to opensource Projects
 - 🌱 &nbsp; I am currently learning Golang;
 - ❤️ &nbsp; I Love Blockchain ⛓;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sadeeqdev=repositories)
