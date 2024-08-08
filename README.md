@@ -12,7 +12,7 @@ depending on what the project requires. I love exploring new tech stack 💻 and
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **CheddaTech**
+- 🔭 &nbsp; I’m currently working on **Chedda Finance**
 - 🤝 &nbsp; I like collaborating to opensource Projects
 - 🌱 &nbsp; I am currently learning Golang;
 - ❤️ &nbsp; I Love Blockchain ⛓;
