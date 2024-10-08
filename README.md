@@ -16,7 +16,7 @@ depending on what the project requires. I love exploring new tech stack 💻 and
 - 🤝 &nbsp; I like collaborating to opensource Projects
 - 🌱 &nbsp; I am currently learning Golang;
 - ❤️ &nbsp; I Love Blockchain ⛓;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sadeeqdev=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abubakvr=repositories)
 - 📫 &nbsp; You can view my portfolio on [sadeeqdev](https://sadeeqdev.vercel.app)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; I enjoy reading books, watching football and writing tech related articles when I'm free. 
@@ -38,8 +38,8 @@ depending on what the project requires. I love exploring new tech stack 💻 and
 ### 📊 Github Stats
 <a href='https://github.com/sadeeqdev/github-stats-transparent'>
   
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=sadeeqdev&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeeqdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=abubakvr&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakvr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <br>
