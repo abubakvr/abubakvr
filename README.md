@@ -12,8 +12,8 @@ I'm a **Fullstack Engineer** passionate about building **scalable Web3 applicati
 
 ## ⚒️ Tech Stack:
 **Frontend:** React, Next.js, Vue, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Express, Go, GraphQL, MongoDB, PostgresSQL, Docker 
-**Blockchain:** Solidity, Ethers.js, Foundry, Hardhat
+**Backend:** Node.js, Express, Go, GraphQL, MongoDB, PostgresSQL, Docker   
+**Blockchain:** Solidity, Ethers.js, Foundry, Hardhat    
 **DevOps:** AWS, GCP, Kubernetes, Terraform, GitHub Actions  
 
 ## 🔗 Connect with Me:
