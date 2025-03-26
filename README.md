@@ -19,5 +19,3 @@ I'm a **Fullstack Engineer** passionate about building **scalable Web3 applicati
 ## 🔗 Connect with Me:
 🌍 [Portfolio](https://abubakar.life) | 🐙 [GitHub](https://github.com/abubakvr) | 💼 [LinkedIn](https://linkedin.com/in/abubakaribrahim1710)  
 
-⚡ **Building the future with Web3, AI & Cloud!** 🚀
-
