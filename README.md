@@ -1,45 +1,23 @@
-## Hi 👋, I am Abubakar Ibrahim!
+# 👋 Hey, I'm Abubakar Ibrahim!
 
-I am a software developer specializing in creating and executing innovative software
-solutions to enhance business and productivity. Passionate about learning and development with a desire
-to apply skills on a larger development team.
-I am a Developer who does => Web Development 🌐, App Developement 📱 and Backend Engineering 💻
-depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
+🚀 **Lead Fullstack Web3 Engineer**
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+I'm a **Fullstack Engineer** passionate about building **scalable Web3 applications** and exploring **AI-driven innovations**. With **5+ years of experience**, I specialize in **React, Next.js, TypeScript, Node.js, and Solidity**, delivering **high-performance DeFi and blockchain solutions**.
 
-- 🔭 &nbsp; I’m currently working on **Chedda Finance**
-- 🤝 &nbsp; I like collaborating to opensource Projects
-- 🌱 &nbsp; I am currently learning Golang;
-- ❤️ &nbsp; I Love Blockchain ⛓;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abubakvr=repositories)
-- 📫 &nbsp; You can view my portfolio on [abubakar.life](https://abubakar.life)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📚 &nbsp; I enjoy reading books, watching football and writing tech related articles when I'm free. 
+## 🛠️ What I Do:
+- **Web3 & dApps:** Smart contract development and integration, WalletConnect, Layer 2 scaling.
+- **Fullstack Development:** Scalable Web apps and APIs, System architecture design and real-time data handling.
+- **Performance & Security:** Optimized UIs, API security, Cloud cost optimization and blockchain best practices.
+- **Cloud & Infrastructure:** Deploying scalable applications on AWS, GCP, and leveraging cloud-native technologies.
 
-<br>
+## ⚒️ Tech Stack:
+**Frontend:** React, Next.js, Vue, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express, Go, GraphQL, MongoDB, PostgresSQL, Docker 
+**Blockchain:** Solidity, Ethers.js, Foundry, Hardhat
+**DevOps:** AWS, GCP, Kubernetes, Terraform, GitHub Actions  
 
-### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://vuejs.org" target="_blank"> <img align="left" alt="Vue JS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vue/vue.svg"> </a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<br>
+## 🔗 Connect with Me:
+🌍 [Portfolio](https://abubakar.life) | 🐙 [GitHub](https://github.com/abubakvr) | 💼 [LinkedIn](https://linkedin.com/in/abubakaribrahim1710)  
 
+⚡ **Building the future with Web3, AI & Cloud!** 🚀
 
-### 📊 Github Stats
-<a href='https://github.com/sadeeqdev/github-stats-transparent'>
-  
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=abubakvr&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakvr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-
-<br>
