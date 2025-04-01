@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Abubakar Ibrahim!
 
-🚀 **Lead Fullstack Web3 Engineer**
+🚀 **Fullstack Web3 Engineer**
 
 I'm a **Fullstack Engineer** passionate about building **scalable Web3 applications** and exploring **AI-driven innovations**. With **5+ years of experience**, I specialize in **React, Next.js, TypeScript, Node.js, and Solidity**, delivering **high-performance DeFi and blockchain solutions**.
 
